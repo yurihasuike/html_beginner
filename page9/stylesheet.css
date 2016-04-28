@@ -1,0 +1,32 @@
+.header {
+  height: 65px;
+  background-color: #DAFFE7;
+}
+
+.main {
+  width: 1300px;
+}
+
+.footer {
+  clear:left;
+  height: 200px;
+  background-color: #FCFFC0;
+  /*footerのclearプロパティをleftにしてください*/
+  
+}
+
+/*sidebarの 背景色を#FFD8CF 高さを600px 幅を200px floatプロパティをleft にしてください*/
+.sidebar{
+  float:left;
+  background-color:#FFD8CF;
+  height:600px;
+  width:200px;
+}
+
+/*contentsの 背景色を#E8E5FF 高さを600px 幅を900px floatプロパティをleft にしてください*/
+.contents{
+  float:left;
+  background-color:#E8E5FF;
+  height:600px;
+  width:900px;
+}
